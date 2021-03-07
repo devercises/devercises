@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Devercises 👋
 
-<!--
-**devercises/devercises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Python Enthusiast, with guitar and cooking passion. Within this, I like to play video games (for example: rdr2 and witcher3).
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 3
+
+### Working Environment
+
+- Windows 10
+- WSL2
+- PyEnv with VirtualEnv Plugin
+- ZSH Shell
+- Visual Studio Code
